@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CheckBoxExample</string>
+    <string name="pertanyaan1">Apakah Bahasa Pemrograman Favorit Anda?</string>
+    <string name="java">Java</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="csharp">C#</string>
+    <string name="javascript">javaScript</string>
+</resources>

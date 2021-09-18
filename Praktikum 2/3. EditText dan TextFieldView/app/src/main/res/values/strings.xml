@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EditTextDanTextFieldView</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="hintUsername">Input Username</string>
+    <string name="hintPassword">Input Password</string>
+</resources>

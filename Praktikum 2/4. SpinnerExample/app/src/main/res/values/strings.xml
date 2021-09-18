@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerExample</string>
+    <string-array name="processList">
+        <item>Penumlahan</item>
+        <item>Pengurangan</item>
+        <item>Perkalian</item>
+        <item>Pembagian</item>
+    </string-array>
+</resources>
