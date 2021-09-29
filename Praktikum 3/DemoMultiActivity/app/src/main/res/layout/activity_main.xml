@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!" />
+
+    <Button
+        android:id="@+id/btnTampilActivityDua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Buka Activity Dua"
+        android:onClick="tampilActivityDua"
+        />
+
+    <Button
+        android:id="@+id/btnShareWeb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Share Web"
+        android:onClick="tampilShareWeb"
+        />
+
+    <Button
+        android:id="@+id/btnTelpon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BUka Telpon"
+        android:onClick="bukaTelpon"
+
+        />
+
+    <Button
+        android:id="@+id/btnBukaPeta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Buka Peta"
+        android:onClick="bukaPeta"
+        />
+
+    <Button
+        android:id="@+id/btnShareText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Share Text"
+        android:onClick="tampilShareText"
+        />
+
+</LinearLayout>
