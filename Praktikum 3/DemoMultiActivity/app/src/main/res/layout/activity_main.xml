@@ -16,9 +16,8 @@
         android:id="@+id/btnTampilActivityDua"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Buka Activity Dua"
         android:onClick="tampilActivityDua"
-        />
+        android:text="Buka Activity Dua" />
 
     <Button
         android:id="@+id/btnShareWeb"
