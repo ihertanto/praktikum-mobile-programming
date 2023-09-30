@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void doSomething(View view) {
         c1 = new ConnectInternetTask(this);
-        c1.execute("https://www.google.com");
+        c1.execute("https://www.budiluhur.ac.id/");
     }
 
     public void downloadImage(View view) {
